@@ -20,6 +20,7 @@ public class HotelReservationSystem {
         Room room1 = new Room();
         int roomNum = room1.returnRoomNo(2000);
         System.out.println(roomNum);
+                System.out.println("GG");
     }
     
 }
